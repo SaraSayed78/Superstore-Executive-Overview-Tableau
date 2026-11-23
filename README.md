@@ -7,6 +7,8 @@ An end-to-end data analysis and visual storytelling project examining Superstore
 
 ![Superstore Dashboard Overview](superstore_dashboard_overview.jpg)
 
+* **Dashboard Walkthrough Video:** [Watch Dashboard & Story Walkthrough](https://drive.google.com/file/d/16uugC02U9D7C4kk1qGEy8CWdU79xcg4R/view?usp=drivesdk)
+
 ## Executive KPIs Snapshot
 * **Total Orders:** 5,111
 * **Total Sales:** $2,326,534
@@ -20,5 +22,5 @@ An end-to-end data analysis and visual storytelling project examining Superstore
 
 ## Repository Contents
 * `Superstore_Executive_Overview.twbx` — Packaged Tableau workbook containing data, sheets, dashboard, and story.
-* `superstore_dashboard_overview.png` — Dashboard overview screenshot.
+* `superstore_dashboard_overview.jpg` — Dashboard overview screenshot.
 * `README.md` — Project overview and documentation.
