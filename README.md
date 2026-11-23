@@ -5,9 +5,9 @@ An end-to-end data analysis and visual storytelling project examining Superstore
 ## Live Interactive Dashboard & Story
 * **Tableau Public Link:** [View Interactive Dashboard & Story on Tableau Public](https://public.tableau.com/app/profile/sara.sayed4276/viz/Superstore_Executive_Overview_17954662441650/SuperstorePerformance)
 
-![Superstore Dashboard Overview](superstore_dashboard_overview.jpg)
-
 * **Dashboard Walkthrough Video:** [Watch Dashboard & Story Walkthrough](https://drive.google.com/file/d/16uugC02U9D7C4kk1qGEy8CWdU79xcg4R/view?usp=drivesdk)
+  
+![Superstore Dashboard Overview](superstore_dashboard_overview.jpg)
 
 ## Executive KPIs Snapshot
 * **Total Orders:** 5,111
